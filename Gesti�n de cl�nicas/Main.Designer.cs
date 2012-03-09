@@ -80,6 +80,7 @@
             this.toolStripSeparator3 = new System.Windows.Forms.ToolStripSeparator();
             this.tsbSalir = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator4 = new System.Windows.Forms.ToolStripSeparator();
+            this.ts_Version = new System.Windows.Forms.ToolStripStatusLabel();
             this.barraMensajes.SuspendLayout();
             this.Menu.SuspendLayout();
             this.tab_medicos.SuspendLayout();
@@ -91,7 +92,8 @@
             // barraMensajes
             // 
             this.barraMensajes.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripStatusLabel1});
+            this.toolStripStatusLabel1,
+            this.ts_Version});
             this.barraMensajes.Location = new System.Drawing.Point(0, 559);
             this.barraMensajes.Name = "barraMensajes";
             this.barraMensajes.Size = new System.Drawing.Size(1022, 22);
@@ -524,13 +526,13 @@
             // tsmiNuevaFactura
             // 
             this.tsmiNuevaFactura.Name = "tsmiNuevaFactura";
-            this.tsmiNuevaFactura.Size = new System.Drawing.Size(152, 22);
+            this.tsmiNuevaFactura.Size = new System.Drawing.Size(148, 22);
             this.tsmiNuevaFactura.Text = "Nueva factura";
             // 
             // tsmiVerFacturas
             // 
             this.tsmiVerFacturas.Name = "tsmiVerFacturas";
-            this.tsmiVerFacturas.Size = new System.Drawing.Size(152, 22);
+            this.tsmiVerFacturas.Size = new System.Drawing.Size(148, 22);
             this.tsmiVerFacturas.Text = "Ver facturas";
             // 
             // toolStripSeparator1
@@ -591,6 +593,12 @@
             // 
             this.toolStripSeparator4.Name = "toolStripSeparator4";
             this.toolStripSeparator4.Size = new System.Drawing.Size(6, 72);
+            // 
+            // ts_Version
+            // 
+            this.ts_Version.Name = "ts_Version";
+            this.ts_Version.Size = new System.Drawing.Size(31, 17);
+            this.ts_Version.Text = "v 1.0";
             // 
             // Main
             // 
@@ -671,6 +679,7 @@
         private System.Windows.Forms.ToolStripSplitButton tsbFacturas;
         private System.Windows.Forms.ToolStripMenuItem tsmiNuevaFactura;
         private System.Windows.Forms.ToolStripMenuItem tsmiVerFacturas;
+        private System.Windows.Forms.ToolStripStatusLabel ts_Version;
     }
 }
 

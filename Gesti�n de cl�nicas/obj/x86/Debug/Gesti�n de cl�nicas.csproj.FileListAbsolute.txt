@@ -62,3 +62,5 @@ C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debu
 C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Stock.resources
 C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\aestringana\workspace\BAACGC\Gestión de clínicas\obj\x86\Debug\Gestión de clínicas.exe
+C:\Users\aestringana\workspace\BAACGC\Gestión de clínicas\obj\x86\Debug\Gestión de clínicas.pdb
