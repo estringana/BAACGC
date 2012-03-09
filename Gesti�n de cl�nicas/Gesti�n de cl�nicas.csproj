@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{21619D4C-6C14-47E4-B27A-06EFA72A33B6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Gestión_de_clínicas</RootNamespace>
+    <AssemblyName>Gestión de clínicas</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administracion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion.Designer.cs">
+      <DependentUpon>Administracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Auxiliares.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Auxiliares.Designer.cs">
+      <DependentUpon>Auxiliares.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Agenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agenda.Designer.cs">
+      <DependentUpon>Agenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Facturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Facturas.Designer.cs">
+      <DependentUpon>Facturas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medicos.Designer.cs">
+      <DependentUpon>Medicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mensajes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mensajes.Designer.cs">
+      <DependentUpon>Mensajes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pacientes.Designer.cs">
+      <DependentUpon>Pacientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Servicios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios.Designer.cs">
+      <DependentUpon>Servicios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock.Designer.cs">
+      <DependentUpon>Stock.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Administracion.resx">
+      <DependentUpon>Administracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Auxiliares.resx">
+      <DependentUpon>Auxiliares.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agenda.resx">
+      <DependentUpon>Agenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Facturas.resx">
+      <DependentUpon>Facturas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medicos.resx">
+      <DependentUpon>Medicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mensajes.resx">
+      <DependentUpon>Mensajes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pacientes.resx">
+      <DependentUpon>Pacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Servicios.resx">
+      <DependentUpon>Servicios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock.resx">
+      <DependentUpon>Stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

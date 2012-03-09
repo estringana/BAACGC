@@ -1,0 +1,64 @@
+c:\users\alex\documents\visual studio 2010\Projects\Gestión de clínicas\Gestión de clínicas\bin\Debug\Gestión de clínicas.exe
+c:\users\alex\documents\visual studio 2010\Projects\Gestión de clínicas\Gestión de clínicas\bin\Debug\Gestión de clínicas.pdb
+c:\users\alex\documents\visual studio 2010\Projects\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2010\Projects\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Main.resources
+c:\users\alex\documents\visual studio 2010\Projects\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2010\Projects\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\alex\documents\visual studio 2010\Projects\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\alex\documents\visual studio 2010\Projects\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión de clínicas.exe
+c:\users\alex\documents\visual studio 2010\Projects\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión de clínicas.pdb
+c:\users\alex\documents\visual studio 2010\Projects\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Administracion.resources
+c:\users\alex\documents\visual studio 2010\Projects\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Auxiliares.resources
+c:\users\alex\documents\visual studio 2010\Projects\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Pacientes.resources
+c:\users\alex\documents\visual studio 2010\Projects\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Medicos.resources
+C:\Users\Carlos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión de clínicas.exe
+C:\Users\Carlos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión de clínicas.pdb
+C:\Users\Carlos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Carlos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Administracion.resources
+C:\Users\Carlos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Auxiliares.resources
+C:\Users\Carlos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Pacientes.resources
+C:\Users\Carlos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Main.resources
+C:\Users\Carlos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Medicos.resources
+C:\Users\Carlos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Properties.Resources.resources
+C:\Users\Carlos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Carlos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Carlos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\bin\Debug\Gestión de clínicas.exe
+C:\Users\Carlos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\bin\Debug\Gestión de clínicas.pdb
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Administracion.resources
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Auxiliares.resources
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Facturas.resources
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Login.resources
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Medicos2.resources
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Mensajes.resources
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Pacientes.resources
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Main.resources
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Properties.Resources.resources
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Servicios.resources
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Stock.resources
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\bin\Debug\Gestión de clínicas.exe
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\bin\Debug\Gestión de clínicas.pdb
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión de clínicas.exe
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión de clínicas.pdb
+C:\Documents and Settings\EPS\Mis documentos\Dropbox\DPAA\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Agenda.resources
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión de clínicas.exe
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión de clínicas.pdb
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\bin\Debug\Gestión de clínicas.exe
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\bin\Debug\Gestión de clínicas.pdb
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Administracion.resources
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Auxiliares.resources
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Agenda.resources
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Facturas.resources
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Login.resources
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Medicos2.resources
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Mensajes.resources
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Pacientes.resources
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Main.resources
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Properties.Resources.resources
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Servicios.resources
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\Gestión_de_clínicas.Stock.resources
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bianca\Desktop\Gestión de clínicas\Gestión de clínicas\obj\x86\Debug\GenerateResource.write.1.tlog
